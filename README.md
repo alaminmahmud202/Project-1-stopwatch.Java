@@ -118,7 +118,7 @@ Open StopWatch.java.
 Run the file using your IDE's built-in runner.
 
 ## 🔎 Example UI Output
-<img src="![java output](https://github.com/user-attachments/assets/5c41f15f-08d1-4537-93fd-c73dd8592599)" alt="alaminmahmud" />
+<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/dissident-activists-film-blackmail-video.jpg" alt="alaminmahmud" />" alt="alaminmahmud" />
 
 
 ## 🧪 Testing Strategy
