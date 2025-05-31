@@ -59,7 +59,7 @@ To create a basic yet functional stopwatch that demonstrates Java's **event-driv
 javac StopWatch.java
 java StopWatch
 
-##📜 Sample Code Snippet
+## 📜 Sample Code Snippet
 
 Timer timer = new Timer(1000, this);
 elapsedTime += 1000;
@@ -68,7 +68,7 @@ minutes = (elapsedTime / 60000) % 60;
 seconds = (elapsedTime / 1000) % 60;
 timeLabel.setText(String.format("%02d:%02d:%02d", hours, minutes, seconds));
 
-##📈 Learning Outcome
+## 📈 Learning Outcome
 
 Swing GUI development
 
@@ -78,7 +78,7 @@ Java Timer usage for real-time applications
 
 Building user-friendly interfaces
 
-##🧠 Future Improvements
+## 🧠 Future Improvements
 Add lap time functionality
 
 Countdown timer mode
@@ -87,7 +87,7 @@ Sound notification on stop/reset
 
 Export time logs to a file
 
-##🔖 License
+## 🔖 License
 MIT License — Feel free to fork and improve!
 
 ---
