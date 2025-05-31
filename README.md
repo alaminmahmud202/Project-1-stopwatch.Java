@@ -117,7 +117,7 @@ Open StopWatch.java.
 Run the file using your IDE's built-in runner.
 
 ## 🔎 Example UI Output
-<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/stopwatch-screenshot.png" alt="Java Swing Stopwatch UI" />
+<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/stopwatch-screenshot.png" alt="Java Stopwatch Screenshot" width="600"/>
 
 
 ## 🧪 Testing Strategy
