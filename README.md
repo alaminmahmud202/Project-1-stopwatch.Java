@@ -102,8 +102,7 @@ bash
 Copy
 Edit
 # Step 1: Clone the repo
-git clone https://github.com/alaminmahmud202/java-stopwatch.git
-cd java-stopwatch
+git clone https://github.com/alaminmahmud202/java-stopwatch.gitcd java-stopwatch
 
 # Step 2: Compile the Java source
 javac StopWatch.java
@@ -118,7 +117,6 @@ Open StopWatch.java.
 Run the file using your IDE's built-in runner.
 
 ## 🔎 Example UI Output
-<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/![Uploading java.output.png…]()" alt="alaminmahmud" />
 
 
 ## 🧪 Testing Strategy
