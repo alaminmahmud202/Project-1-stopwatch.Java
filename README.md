@@ -31,16 +31,15 @@ This project aims to demonstrate:
 
 | Component   | Role                                      |
 |------------|-------------------------------------------|
-| `JFrame`   | Main window container                     |
-| `JLabel`   | Displays the formatted time               |
-| `JButton`  | User controls: Start, Stop, Reset         |
-| `Timer`    | Swing timer to tick every second          |
-| `int`      | Time storage in milliseconds              |
-| `boolean`  | Tracks current running state              |
+| JFrame   | Main window container                     |
+| JLabel   | Displays the formatted time               |
+| JButton  | User controls: Start, Stop, Reset         |
+| Timer    | Swing timer to tick every second          |
+| int      | Time storage in milliseconds              |
+| boolean  | Tracks current running state              |
 
 ### 🧩 UML Class Diagram
 
-``plaintext
 +--------------------------------------+
 |             StopWatch               |
 +--------------------------------------+
@@ -103,7 +102,7 @@ bash
 Copy
 Edit
 # Step 1: Clone the repo
-git clone https://github.com/yourusername/java-stopwatch.git
+git clone https://github.com/alaminmahmud202/java-stopwatch.git
 cd java-stopwatch
 
 # Step 2: Compile the Java source
@@ -119,15 +118,8 @@ Open StopWatch.java.
 Run the file using your IDE's built-in runner.
 
 ## 🔎 Example UI Output
-pgsql
-Copy
-Edit
-+------------------------+
-|       00:00:00         |
-|  [ Start ] [ Stop ]    |
-|        [ Reset ]       |
-+------------------------+
-Add a screenshot image under /images/stopwatch.png and reference it here for better visuals.
+<img src="![java output](https://github.com/user-attachments/assets/5c41f15f-08d1-4537-93fd-c73dd8592599)" alt="alaminmahmud" />
+
 
 ## 🧪 Testing Strategy
 Test Case	Status
