@@ -158,9 +158,11 @@ Push to the branch (git push origin new-feature)
 Open a Pull Request!
 
 ## 📬 Contact
+
 Developer: Al amin Mahmud
 
 GitHub: @alaminmahmud202
+
 Email: alaminmahmud684@gmail.com
 
 “Time is the most valuable resource. Building a stopwatch teaches us to measure, manage, and master it.”
