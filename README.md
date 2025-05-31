@@ -114,8 +114,10 @@ Open StopWatch.java.
 
 Run the file using your IDE's built-in runner.
 
-## 🔎 Example UI Output
+## 🔎 Example Output
+
 <img src="https://github.com/alaminmahmud202/alaminmahmud202/blob/main/Git%20display/javaout2.png" alt="alaminmahmud" />
+
 
 ## 🧪 Testing Strategy
 Test Case	Status
