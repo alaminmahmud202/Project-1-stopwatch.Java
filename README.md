@@ -56,7 +56,49 @@ To create a basic yet functional stopwatch that demonstrates Java's **event-driv
 
 ## 🚀 How to Run
 
-```bash
 javac StopWatch.java
 java StopWatch
+
+##📜 Sample Code Snippet
+
+Timer timer = new Timer(1000, this);
+elapsedTime += 1000;
+hours = elapsedTime / 3600000;
+minutes = (elapsedTime / 60000) % 60;
+seconds = (elapsedTime / 1000) % 60;
+timeLabel.setText(String.format("%02d:%02d:%02d", hours, minutes, seconds));
+
+##📈 Learning Outcome
+
+Swing GUI development
+
+Event handling with ActionListener
+
+Java Timer usage for real-time applications
+
+Building user-friendly interfaces
+
+##🧠 Future Improvements
+Add lap time functionality
+
+Countdown timer mode
+
+Sound notification on stop/reset
+
+Export time logs to a file
+
+##🔖 License
+MIT License — Feel free to fork and improve!
+
+---
+
+### ✅ Want to enhance it further?
+
+Let me know if you'd like:
+- A **stylized banner** at the top
+- A **GIF demo** instead of screenshots
+- Link to a **JAR file** to run the stopwatch directly
+- Or a **custom badge** like `Made with Java 💻`
+
+Just say the word — and I’ll generate it for you! 😄
 
