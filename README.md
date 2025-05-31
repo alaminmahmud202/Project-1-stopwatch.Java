@@ -1,6 +1,5 @@
 ### ⏱️Java Swing Stopwatch
-
-> A lightweight, precision-based desktop stopwatch application developed using **Java Swing**, focusing on clean design, real-time updates, and modular code structure based on object-oriented programming (OOP) principles.
+A lightweight, precision-based desktop stopwatch application developed using **Java Swing**, focusing on clean design, real-time updates, and modular code structure based on object-oriented programming (OOP) principles.
 
 
 ## 📘 Project Overview
