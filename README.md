@@ -115,10 +115,7 @@ Open StopWatch.java.
 Run the file using your IDE's built-in runner.
 
 ## 🔎 Example UI Output
-<img src="![java output](https://github.com/user-attachments/assets/fd8cf358-e64c-478b-b9b9-f31a634870c3)" alt="React Logo" />
-
-
-
+<img src="https://ibb.co/TDrFr2Dk" alt="alaminmahmud" />
 
 ## 🧪 Testing Strategy
 Test Case	Status
