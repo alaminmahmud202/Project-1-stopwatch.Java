@@ -159,7 +159,7 @@ Open a Pull Request!
 
 ## 📬 Contact
 
-Developer: Al amin Mahmud
+Developer: Al Amin Mahmud
 
 GitHub: @alaminmahmud202
 
